@@ -1,0 +1,8 @@
+ccxt
+numpy
+pandas
+tenacity
+requests
+python-telegram-bot
+google-auth
+matplotlib
